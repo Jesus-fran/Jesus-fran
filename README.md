@@ -1,9 +1,12 @@
-  👋 Hi, I’m @Jesus-fran
+  
+  <h4 align="center"> 👋 Hi, I’m Jesus-fran </h4>
+
+  
 - ⚡ Quick bio: Software developer and a student at Universidad Tecnológica de la Selva.
-- 👀 I’m interested in: The software development, mainly the development of web applications.
-- 🌱 I’m currently learning: web development frameworks like laravel and NodeJS.
-- 💞️ I’m looking to collaborate on:  any web development project  
-- 📫 How to reach me: my email
+- 👀 I’m interested in: Software development, mainly the development of mobile and web applications.
+- 🌱 I’m currently learning: web and mobile development frameworks like Flutter, Laravel and NodeJs
+- 💞️ I’m looking to collaborate on: any software development project.
+- 📫 How to reach me: my email.
 
 
 <!---
