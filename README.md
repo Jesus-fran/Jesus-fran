@@ -13,7 +13,7 @@
 - 📫 How to reach me: jesusfran.dev@gmail.com.
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-fran&layout=compact&theme=gotham&langs_count=10" alt="Jesus-fran :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jesus-fran&layout=compact&theme=gotham&langs_count=10" alt="Jesus-fran :: Top Langs" /></p>
 
 <!---
 Jesus-fran/Jesus-fran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
