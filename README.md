@@ -2,7 +2,7 @@
   <h4 align="center"> 👋 Hi, i’m Jesús Francisco </h4>  
   
   
-- ⚡ Quick bio: Software developer and a student at Universidad Tecnológica de la Selva.  
+- ⚡ Quick bio: Software developer and a student.  
 
 - 👀 I’m interested in: Software development, mainly the development of mobile and web applications.  
 
