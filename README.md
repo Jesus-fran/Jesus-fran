@@ -1,14 +1,10 @@
-  
-  <h2 align="center"> 👋 ¡Hey, coders! </h2>  
-   <h3 align="center"> I'm Jesús Gómez an Front-End developer using JS and Back-End using PHP</h3>
-   
-<p style="font-family: monospace; font-size:12pt;">
+<h2 align="center"> 👋 ¡Hey, coders! </h2>
+<h3 align="center"> I'm Jesús Gómez an Front-End developer using JS and Back-End using PHP</h3>
+
+<p style="font-family: monospace;color:red">
   Focused on web development, and handling various programming technologies such as PHP, JS, MySQl. I like to make some things in life easier using programming 💻 , I am passionate about using Linux terminals 🐧, practicing computer security 🔓, programming at a low level from time to time and playing some retro games 🎮.
 </p>
-
 <hr>
-
-
 ### I know more about
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
