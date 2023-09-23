@@ -1,5 +1,5 @@
 <h2 align="center"> 👋 ¡Hey, coders! </h2>
-<h3 align="center"> I'm Jesús Gómez an Front-End developer using JS and Back-End using PHP</h3>
+<h3 align="center"> I'm Jesús Gómez a PHP Back-End Developer</h3>
 
 Focused on web development, and handling various programming technologies such as PHP, JS, MySQl. I like to make some things in life easier using programming 💻 , I am passionate about using Linux terminals 🐧, practicing computer security 🔓, programming at a low level from time to time and playing some retro games 🎮.
 
